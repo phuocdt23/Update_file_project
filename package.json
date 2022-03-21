@@ -1,0 +1,28 @@
+{
+  "name": "update_file_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuocdt23/Update_file_project.git"
+  },
+  "keywords": [
+    "uploading",
+    "file"
+  ],
+  "author": "phuoc0912",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuocdt23/Update_file_project/issues"
+  },
+  "homepage": "https://github.com/phuocdt23/Update_file_project#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
